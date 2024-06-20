@@ -389,6 +389,10 @@ hr {
     height: 50px;
   }
 
+  .login-email-button span {
+    margin-left: 32px;
+  }
+
   .google-login-button {
     background-color: #4285f4;
     position: relative;
@@ -399,7 +403,7 @@ hr {
     color: white;
     flex: 1;
     text-align: center;
-    margin-left: 50px;
+    margin-left: 0;
   }
 
   .center-image {
